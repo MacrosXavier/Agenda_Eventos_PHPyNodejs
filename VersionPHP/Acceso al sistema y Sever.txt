@@ -1,0 +1,25 @@
+Acceso al sistema web:
+
+
+usuario: mauro@nextu.com
+
+contraseña: mauro123
+
+
+usuario: kempes@nextu.com
+
+contraseña: kempes123
+
+
+usuario: maradona@nextu.com
+
+contraseña: maradona123
+
+
+
+MySQL esta sin clave:
+Servidor: "localhost" 
+Usuario: "root"  
+Clave: ""  
+DB: "agenda_bd"
+

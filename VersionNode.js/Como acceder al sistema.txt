@@ -1,0 +1,17 @@
+Acceso al Ssistema
+
+1.- Instalar NodeJS
+
+2.- Instalar MongoDB
+
+3.- Arrancar servicios de MongoDB
+
+4.- Arrancar servicios de NodeJS con: node index.js
+
+5.- abrir su navegador preferido y se puede ingresar con:
+
+usuario: mauro@nextu.com
+contraseña: mauro123
+
+usuario: leo@nextu.com
+contraseña: leo123
